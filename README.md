@@ -42,7 +42,7 @@ Um desafio divertido para criar um jogo de Amigo Secreto onde é possível adici
 
 ## 💡 Uso rápido
 
-1. Abra `https://edracky.github.io/challenge-amigo-secreto_pt-main/` em um navegador atual  
+1. Abra`https://edracky.github.io/challenge-amigo-secreto_pt-main/` em um navegador atual  
 2. Digite o nome dos amigos e clique em "Adicionar"  
 3. Clique em "Sortear amigo" para ver quem foi escolhido  
 4. Repita para sortear todos os amigos  
